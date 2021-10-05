@@ -1,4 +1,4 @@
-const weatherData = [
+export const weatherData = [
     {
         "key": 1630879200000,
         "RAIN_FALL": {},
